@@ -37,7 +37,7 @@ Built as a real-world application of LLMs + vector databases, PDFQuery demonstra
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/pdfquery.git
+git clone https://github.com/muditjha20/pdfquery.git
 cd pdfquery
 ```
 
