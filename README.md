@@ -76,7 +76,16 @@ Inserted 31 text chunks.
 Enter your question (or type 'quit' to exit): What's CPU scheduling
 
 QUESTION: "What's CPU scheduling"
-Answer: CPU scheduling is the process of selecting which process in the ready queue will be allocated the CPU for execution. It is a fundamental aspect of operating systems that supports multiprogramming by managing process execution and optimizing CPU utilization. The short-term scheduler, a component of the operating system, makes decisions about process execution based on various criteria and scheduling algorithms. These decisions can occur when a process switches states (such as from running to waiting, or from waiting to ready), or when a process terminates. Scheduling can be preemptive or nonpreemptive, and it involves considerations like access to shared data and preemption in kernel mode.       
+Answer: CPU scheduling is the process of selecting which process in the ready queue
+        will be allocated the CPU for execution. It is a fundamental aspect of
+        operating systems that supports multiprogramming by managing process
+        execution and optimizing CPU utilization. The short-term scheduler, a
+        component of the operating system, makes decisions about process execution
+        based on various criteria and scheduling algorithms. These decisions can
+        occur when a process switches states (such as from running to waiting, or
+        from waiting to ready), or when a process terminates. Scheduling can be
+        preemptive or nonpreemptive, and it involves considerations like access to
+        shared data and preemption in kernel mode.
 
 FIRST DOCUMENTS BY RELEVANCE:
      [0.9228] Silberschatz, Galvin and Gagne ©2013 Operating System Concepts –9thEdition
@@ -84,15 +93,11 @@ Chapter 6...
      [0.9228] Silberschatz, Galvin and Gagne ©2013 Operating System Concepts –9thEdition
 Chapter 6...
      [0.9187] obtained with multiprogramming
-CPU –I/O Burst Cycle –Process
-execution consists of ...
+CPU –I/O Burst Cycle –Process execution consists of ...
      [0.9187] obtained with multiprogramming
-CPU –I/O Burst Cycle –Process
-execution consists of ...
+CPU –I/O Burst Cycle –Process execution consists of ...
 
 What's your next question (or type 'quit' to exit): quit
-```
-
 ---
 
 ## 📁 .env.example
