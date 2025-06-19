@@ -112,8 +112,6 @@ ASTRA_DB_APPLICATION_TOKEN=your-astra-db-token-here
 ## 🙋‍♂️ Author
 
 **Mudit Mayank Jha**  
-Undergraduate Computer Science Student  
-University of the West Indies (UWI), currently on exchange at the University of Richmond
 
 ---
 
