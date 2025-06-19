@@ -65,8 +65,6 @@ ASTRA_DB_APPLICATION_TOKEN=your-astra-db-token
 python PDFQuery.py
 ```
 
----
-
 ## 🧪 Sample Output
 
 ```bash
@@ -98,6 +96,7 @@ CPU –I/O Burst Cycle –Process execution consists of ...
 CPU –I/O Burst Cycle –Process execution consists of ...
 
 What's your next question (or type 'quit' to exit): quit
+```
 ---
 
 ## 📁 .env.example
