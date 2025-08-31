@@ -1,3 +1,6 @@
 .env
 __pycache__/
 *.pyc
+.venv312
+.venv311
+.cassio_bundle_cache
